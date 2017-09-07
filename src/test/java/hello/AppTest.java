@@ -17,10 +17,5 @@ public class AppTest
     }
 
 
-    @Test
-    public void TestThatWillFail(){
-
-        assertEquals("Hello", "Goodbye");
-    }
 
 }
